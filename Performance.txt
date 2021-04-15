@@ -1,0 +1,6 @@
+Frequency : 
+Time to Process: 0 Minutes 4 seconds 
+Memory used : 0.009657MB peak : 0.012603MB
+Translate: 
+50 fragments of File 
+Time to Process: 16 Mins 
